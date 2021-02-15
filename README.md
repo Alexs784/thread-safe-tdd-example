@@ -1,1 +1,1 @@
-# thred-safe-tdd-example
+# Thread-safe TDD example
